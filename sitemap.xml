@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://upchatgpt.cn/how-subscribe-payment-cursor-pro/</loc>
+    
+    <lastmod>2024-09-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://upchatgpt.cn/how-register-claude/</loc>
+    
+    <lastmod>2024-09-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://upchatgpt.cn/how-subscribe-claude-pro/</loc>
     
     <lastmod>2024-09-05</lastmod>
@@ -12,15 +30,6 @@
   
   <url>
     <loc>https://upchatgpt.cn/how-upgrade-chatgpt-plus/</loc>
-    
-    <lastmod>2024-09-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://upchatgpt.cn/how-register-claude/</loc>
     
     <lastmod>2024-09-03</lastmod>
     
@@ -112,64 +121,71 @@
 
   <url>
     <loc>https://upchatgpt.cn/</loc>
-    <lastmod>2024-09-05</lastmod>
+    <lastmod>2024-09-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>https://upchatgpt.cn/tags/ChatGPT/</loc>
+    <lastmod>2024-09-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://upchatgpt.cn/tags/WildCard/</loc>
-    <lastmod>2024-09-05</lastmod>
+    <lastmod>2024-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://upchatgpt.cn/tags/Claude/</loc>
-    <lastmod>2024-09-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://upchatgpt.cn/tags/ChatGPT/</loc>
-    <lastmod>2024-09-05</lastmod>
+    <lastmod>2024-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://upchatgpt.cn/tags/OnlyFans/</loc>
-    <lastmod>2024-09-05</lastmod>
+    <lastmod>2024-09-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://upchatgpt.cn/tags/Cursor/</loc>
+    <lastmod>2024-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://upchatgpt.cn/tags/Patreon/</loc>
-    <lastmod>2024-09-05</lastmod>
+    <lastmod>2024-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://upchatgpt.cn/tags/Poe/</loc>
-    <lastmod>2024-09-05</lastmod>
+    <lastmod>2024-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://upchatgpt.cn/tags/Amazon/</loc>
-    <lastmod>2024-09-05</lastmod>
+    <lastmod>2024-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://upchatgpt.cn/tags/WildCardc/</loc>
-    <lastmod>2024-09-05</lastmod>
+    <lastmod>2024-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -177,36 +193,43 @@
 
   
   <url>
+    <loc>https://upchatgpt.cn/categories/ChatGPT/</loc>
+    <lastmod>2024-09-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://upchatgpt.cn/categories/WildCard/</loc>
-    <lastmod>2024-09-05</lastmod>
+    <lastmod>2024-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://upchatgpt.cn/categories/Claude/</loc>
-    <lastmod>2024-09-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://upchatgpt.cn/categories/ChatGPT/</loc>
-    <lastmod>2024-09-05</lastmod>
+    <lastmod>2024-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://upchatgpt.cn/categories/OnlyFans/</loc>
-    <lastmod>2024-09-05</lastmod>
+    <lastmod>2024-09-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://upchatgpt.cn/categories/Cursor/</loc>
+    <lastmod>2024-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://upchatgpt.cn/categories/Patreon/</loc>
-    <lastmod>2024-09-05</lastmod>
+    <lastmod>2024-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
