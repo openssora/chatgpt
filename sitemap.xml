@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://upchatgpt.cn/how-use-gemini-2-flash-exp-and-access-entry/</loc>
+    
+    <lastmod>2025-03-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://upchatgpt.cn/tutorial-on-how-ai-can-be-monied/</loc>
     
     <lastmod>2025-03-13</lastmod>
@@ -715,6 +724,27 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://upchatgpt.cn/tags/Gemini2-0/</loc>
+    <lastmod>2025-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://upchatgpt.cn/tags/gemini-2-0-flash-exp/</loc>
+    <lastmod>2025-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://upchatgpt.cn/tags/google/</loc>
+    <lastmod>2025-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -859,6 +889,13 @@
   
   <url>
     <loc>https://upchatgpt.cn/categories/AI%E5%8F%98%E7%8E%B0%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2025-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://upchatgpt.cn/categories/Gemini%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2025-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
